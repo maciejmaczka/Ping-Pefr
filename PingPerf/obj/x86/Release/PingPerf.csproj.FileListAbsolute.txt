@@ -1,0 +1,9 @@
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\bin\Release\PingPerf.exe
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\bin\Release\PingPerf.pdb
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\PingPerf.Form1.resources
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\PingPerf.Properties.Resources.resources
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\PingPerf.exe
+C:\Users\mac\documents\visual studio 2010\Projects\PingPerf\PingPerf\obj\x86\Release\PingPerf.pdb
